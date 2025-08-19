@@ -1,2 +1,2 @@
 # Dynamic-programming
-this repo has leetcode's dynamic programming answer's
+this repo has leetcode's dynamic programming answer's in python
